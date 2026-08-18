@@ -1,0 +1,4 @@
+mercapi>=0.4.2
+httpx>=0.27
+python-dotenv>=1.0
+python-telegram-bot[job-queue]>=21.0
